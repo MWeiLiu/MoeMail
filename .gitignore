@@ -48,6 +48,5 @@ wrangler.cleanup.toml
 public/workbox-*.js
 public/sw.js
 
-wrangler.json
 wrangler.cleanup.json
 wrangler.email.json
